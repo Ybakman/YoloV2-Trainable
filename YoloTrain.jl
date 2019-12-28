@@ -116,7 +116,7 @@ model = Chain(Conv(3,3,3,16,1,1,leaky),
 
 function main(args=ARGS)
     s = ArgParseSettings()
-    s.description="YoloGit.jl Yavuz Bakman,2019. Trainable Tiny Yolo V2 implementation by Knet framework"
+    s.description="YoloTrain.jl Yavuz Bakman,2019. Trainable Tiny Yolo V2 implementation by Knet framework"
     s.exc_handler=ArgParse.debug_handler
     @add_arg_table s begin
         ("--iou"; arg_type=Float32; default=Float32(0.3); help="If two predictions overlap more than this threshold, one of them is removed")
