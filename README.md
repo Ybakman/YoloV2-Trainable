@@ -40,6 +40,8 @@ OUTPUT:
 <p align="center">
   <img src="outexample.jpg" width="416" height="416">
 </p> 
+
 ## References
+
 https://fairyonice.github.io/Part_4_Object_Detection_with_Yolo_using_VOC_2012_data_loss.html
 https://github.com/experiencor/keras-yolo2
