@@ -24,7 +24,7 @@ To train model, run:
 ```
 $ julia YoloTrain.jl train --batch_size 32 --epochs 20
 ```
-Batch_size = 32 and 20 epochs is suggested. When it is trained, it saves trained model as trained1.jld2. If you use this model for accuracy and display, simply use the argument:
+Batch_size = 32 and 20 epochs is suggested. When it is trained, it saves trained model as trained1.jld2. If you want to use this model for accuracy and display, simply use the argument:
 ```
 $ --choose true
 ```
