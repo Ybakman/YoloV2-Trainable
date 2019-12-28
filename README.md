@@ -33,7 +33,7 @@ Here is an example of input and output:
 
 INPUT:
 <p align="center">
-  <img src="Dog.jpg" width="416" height="416">
+  <img src="example.jpg" width="416" height="416">
 </p> 
 
 OUTPUT:
