@@ -46,4 +46,8 @@ OUTPUT:
 https://fairyonice.github.io/Part_4_Object_Detection_with_Yolo_using_VOC_2012_data_loss.html
 https://github.com/experiencor/keras-yolo2
 
+## To-Do List
+
+-It will become a more generalized version to train different datasets.
+
 
