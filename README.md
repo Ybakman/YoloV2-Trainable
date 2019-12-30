@@ -7,7 +7,7 @@ first download pre-trained weights by:
 ```
 $ wget https://pjreddie.com/media/files/yolov2-tiny-voc.weights
 ```
-If you want to see accuracy on Voc Dataset 2007, download the dataset by:
+If you want to train data and see accuracy on Voc Dataset 2007, download the dataset by:
 ```
 $ wget https://pjreddie.com/media/files/VOCtrainval_06-Nov-2007.tar
   tar xf VOCtrainval_06-Nov-2007.tar
